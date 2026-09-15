@@ -87,7 +87,7 @@ local BLOCKED_PROPS = {
 local firingProps = setmetatable({}, { __mode = "k" })
 
 local MANAGER_SOURCE_URLS = {
-	"https://raw.githubusercontent.com/NoirStillHere/NoirHubOpenSrc/refs/heads/main/AssistantTab/manager_src_urls"
+	"https://raw.githubusercontent.com/NoirNotFound7z/NOs/refs/heads/main/Assistant/manager_src_urls"
 }
 
 local function fetchWithFallback(urlList)
